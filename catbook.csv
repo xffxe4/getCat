@@ -1,0 +1,86 @@
+ID,Category Name,Policy
+16,Abortion,ALLOWED
+1,Adult/Mature Content,ALLOWED
+23,Alcohol,ALLOWED
+22,Alternative Spirituality/Belief,ALLOWED
+30,Art/Culture,ALLOWED
+59,Auctions,ALLOWED
+84,Audio/Video Clips,ALLOWED
+32,Brokerage/Trading,ALLOWED
+21,Business/Economy,ALLOWED
+29,Charitable Organizations,ALLOWED
+51,Chat (IM)/SMS,ALLOWED
+26,Child Pornography,ALLOWED
+108,Computer/Information Security,ALLOWED
+97,Content Servers,ALLOWED
+25,Controlled Substances,ALLOWED
+103,Dynamic DNS Host,ALLOWED
+106,E-Cards/Invitations,ALLOWED
+27,Education,ALLOWED
+52,Email,ALLOWED
+20,Entertainment,ALLOWED
+7,Extreme,ALLOWED
+56,File Storage/Sharing,ALLOWED
+31,Financial Services,ALLOWED
+87,For Kids,ALLOWED
+11,Gambling,ALLOWED
+33,Games,ALLOWED
+34,Government/Legal,ALLOWED
+17,Hacking,ALLOWED
+37,Health,ALLOWED
+68,Humor/Jokes,ALLOWED
+107,Informational,ALLOWED
+109,Internet Connected Devices,ALLOWED
+110,Internet Telephony,ALLOWED
+5,Intimate Apparel/Swimsuit,ALLOWED
+45,Job Search/Careers,ALLOWED
+44,Malicious Outbound Traffic / Botnets,RESTRICTED
+43,Malicious Sources/Malnets,RESTRICTED
+121,Marijuana,ALLOWED
+112,Media Sharing,ALLOWED
+35,Military,ALLOWED
+50,Mixed Content/Potentially Adult,ALLOWED
+46,News/Media,ALLOWED
+53,Newsgroups/Forums,ALLOWED
+96,Non-viewable/Infrastructure,ALLOWED
+6,Nudity,ALLOWED
+85,Office/Business Applications,ALLOWED
+111,Online Meetings,ALLOWED
+83,Peer-to-Peer (P2P),ALLOWED
+63,Personal Sites,ALLOWED
+47,Personals/Dating,ALLOWED
+18,Phishing,ALLOWED
+118,Piracy/Copyright Concerns,ALLOWED
+98,Placeholders,ALLOWED
+36,Political/Social Advocacy,ALLOWED
+3,Pornography,ALLOWED
+102,Potentially Unwanted Software,ALLOWED
+86,Proxy Avoidance,ALLOWED
+113,Radio/Audio Streams,ALLOWED
+60,Real Estate,ALLOWED
+49,Reference,ALLOWED
+54,Religion,ALLOWED
+57,Remote Access Tools,ALLOWED
+64,Restaurants/Dining/Food,ALLOWED
+9,Scam/Questionable/Illegal,ALLOWED
+40,Search Engines/Portals,ALLOWED
+4,Sex Education,ALLOWED
+93,Sexual Expression,ALLOWED
+58,Shopping,ALLOWED
+55,Social Networking,ALLOWED
+61,Society/Daily Living,ALLOWED
+71,Software Downloads,ALLOWED
+101,Spam,ALLOWED
+65,Sports/Recreation,ALLOWED
+92,Suspicious,RESTRICTED
+38,Technology/Internet,ALLOWED
+24,Tobacco,ALLOWED
+95,Translation,ALLOWED
+66,Travel,ALLOWED
+114,TV/Video Streams,ALLOWED
+90,Uncategorized,ALLOWED
+67,Vehicles,ALLOWED
+14,Violence/Hate/Racism,ALLOWED
+15,Weapons,ALLOWED
+88,Web Ads/Analytics,ALLOWED
+89,Web Hosting,ALLOWED
